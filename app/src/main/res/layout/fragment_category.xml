@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:id="@+id/word_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_word"/>
+
+        <Button
+            android:id="@+id/business_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_business"/>
+
+        <Button
+            android:id="@+id/tecnology_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_technology"/>
+
+        <Button
+            android:id="@+id/sport_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_sport"/>
+
+        <Button
+            android:id="@+id/science_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_science"/>
+
+        <Button
+            android:id="@+id/healt_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_healt"/>
+
+        <Button
+            android:id="@+id/art_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_art"/>
+
+        <Button
+            android:id="@+id/travel_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_travel"/>
+
+        <Button
+            android:id="@+id/auto_mobil_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_auto_mobil"/>
+
+        <Button
+            android:id="@+id/real_estate_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_real_estate"/>
+
+        <Button
+            android:id="@+id/style_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_style"/>
+
+        <Button
+            android:id="@+id/us_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/news_us"/>
+    </LinearLayout>
+</ScrollView>

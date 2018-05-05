@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TuNews</string>
+    <string name="news_word">Dünya</string>
+    <string name="news_business">Ticaret</string>
+    <string name="news_technology">Teknoloji</string>
+    <string name="news_sport">Spor</string>
+    <string name="news_science">Bilim</string>
+    <string name="news_healt">Sağlık</string>
+    <string name="news_art">Sanat</string>
+    <string name="news_travel">Seyahat</string>
+    <string name="news_auto_mobil">Araba</string>
+    <string name="news_real_estate">Emlak</string>
+    <string name="news_style">Stil</string>
+    <string name="news_us">Amerika</string>
+    <string name="title">Başlık</string>
+    <string name="date">Tarih</string>
+    <string name="content">İçerik</string>
+    <string name="wait">Lütfen Bekleyin!</string>
+    <string name="details_description">Tanım</string>
+    <string name="details_author">Yazar</string>
+    <string name="details_content_image">İçerik Resim</string>
+    <string name="internet_refresh">Yenile</string>
+    <string name="internet_dont_access">İnternet\'e erişimi yok!</string>
+    <string name="internet_access">Internet\'e erişildi!</string>
+
+</resources>

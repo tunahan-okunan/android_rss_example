@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TuNews</string>
+    <string name="news_word">World</string>
+    <string name="news_business">Business</string>
+    <string name="news_technology">Technology</string>
+    <string name="news_sport">Sport</string>
+    <string name="news_science">Science</string>
+    <string name="news_healt">Health</string>
+    <string name="news_art">Art</string>
+    <string name="news_travel">Travel</string>
+    <string name="news_auto_mobil">Car</string>
+    <string name="news_real_estate">Real Estate</string>
+    <string name="news_style">Style</string>
+    <string name="news_us">U.S.</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="content">Content</string>
+    <string name="wait">Please Wait!</string>
+    <string name="details_description">Description</string>
+    <string name="details_author">Author</string>
+    <string name="details_content_image">Content Image</string>
+    <string name="internet_refresh">Refresh</string>
+    <string name="internet_dont_access">Don\'t Access to internet</string>
+    <string name="internet_access">Access to internet .</string>
+
+</resources>
